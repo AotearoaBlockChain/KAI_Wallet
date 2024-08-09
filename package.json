@@ -1,0 +1,19 @@
+{
+  "name": "KAI_Wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AotearoaBlockChain/KAI_Wallet",
+  "author": "Nirmata <iroam.tbs@proton.me>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+    // Add other dependencies here if needed
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
