@@ -31,15 +31,17 @@ If you find KAI Wallet useful and would like to support its development, conside
 `8kdBnfE839f3KFpAES3pAEz8Y6dXfKLJyReb5aiZvka1`
 
 Thank you for your support!
+
 ## Getting Started
 
 To get started with KAI Wallet, you can clone the repository and follow the setup instructions below:
 
 ```bash
-git clone https://github.com/yourusername/kai-wallet.git
+git clone https://github.com/AotearoaBlockChain/KAI_Wallet.git
 cd kai-wallet
 npm install
 npm start
+```
 
 ## Acknowledgments
 
