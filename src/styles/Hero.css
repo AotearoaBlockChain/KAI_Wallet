@@ -1,0 +1,36 @@
+/* src/components/Hero.css */
+.hero {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 4rem 0;
+  border: 2px solid black; /* Black border */
+}
+
+.hero h2, .hero h3 {
+  margin: 0;
+  font-weight: 700;
+}
+
+.hero h2 {
+  color: #007bff; /* Blue color */
+}
+
+.hero h3 {
+  color: #ff0000; /* Red color */
+}
+
+.hero .btn-primary {
+  background-color: #007bff; /* Blue background */
+  color: white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  display: inline-block;
+  border: 1px solid black; /* Black border */
+}
+
+.hero .btn-primary:hover {
+  background-color: #ff0000; /* Red background on hover */
+}

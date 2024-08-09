@@ -1,0 +1,33 @@
+/* src/components/Header.css */
+.header {
+  background-color: white; /* White background */
+  color: black; /* Black text */
+  padding: 1rem 0;
+  border-bottom: 2px solid black; /* Black bottom border */
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  font-family: 'Roboto', sans-serif;
+  color: #007bff; /* Blue color */
+}
+
+.header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.header nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+.header nav ul li a:hover {
+  color: #ff0000; /* Red color on hover */
+}

@@ -1,0 +1,24 @@
+/* src/components/Features.css */
+.features {
+  background-color: white;
+  padding: 2rem 0;
+  border-top: 2px solid black;
+}
+
+.features .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.features .feature-item {
+  background-color: white;
+  padding: 1.5rem;
+  border: 2px solid black; /* Black border */
+  border-radius: 5px;
+  text-align: center;
+}
+
+.features .feature-item h3 {
+  color: #007bff; /* Blue color */
+}
